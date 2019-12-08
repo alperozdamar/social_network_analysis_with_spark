@@ -1,3 +1,11 @@
 /bin/
 .classpath
 .project
+
+*.dat
+
+A7_Final_Analysis/metastore_db/log/
+
+A7_Final_Analysis/metastore_db/
+
+*.log
